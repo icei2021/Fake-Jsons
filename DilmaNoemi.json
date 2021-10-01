@@ -1,0 +1,26 @@
+{
+  "tipo_plato": "nacional",
+  "ingrediente": [
+    {
+      "id": 1,
+      "nombre": "arroz",
+      "precio": 10.0
+    },
+    {
+      "id": 1,
+      "nombre": "fideo",
+      "precio": 5.0
+    }
+  ],
+  "cantidad": 25,
+  "categoria": [
+    {
+      "id": 1,
+      "nombre": "picante",
+      "descuentos": {
+        "tipo_cliente": "regular",
+        "descuento": 3.0
+      }
+    }
+  ]
+}

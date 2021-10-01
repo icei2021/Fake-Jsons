@@ -1,0 +1,52 @@
+{
+  "platillos": [
+    {
+      "categoria": "Pasta",
+      "tipo": "Segundo",
+      "porciones": 1,
+      "precio": 23.0,
+      "extra": [
+        {
+          "nombre": "arroz",
+          "precio": 2.5
+        },
+        {
+          "nombre": "fideo",
+          "precio": 5.0
+        }
+      ]
+    },
+    {
+      "categoria": "Parrilla",
+      "tipo": "Segundo",
+      "porciones": 1,
+      "precio": 35.0,
+      "extra": [
+        {
+          "nombre": "arroz",
+          "precio": 2.5
+        },
+        {
+          "nombre": "fideo",
+          "precio": 5.0
+        }
+      ]
+    },
+    {
+      "categoria": "Torta",
+      "tipo": "Postre",
+      "porciones": 2,
+      "precio": 15.5,
+      "extra": [
+        {
+          "nombre": "arroz",
+          "precio": 2.5
+        },
+        {
+          "nombre": "fideo",
+          "precio": 5.0
+        }
+      ]
+    }
+  ]
+}

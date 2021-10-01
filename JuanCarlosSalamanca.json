@@ -1,6 +1,6 @@
 {
   "nombre_comida": "Pique Macho",
-  "precio": 20,
+  "precio": 20.0,
   "peso": "2kg",
   "categoria": "extra",
   "extras": [
@@ -11,15 +11,18 @@
   "refrescos": [
     {
       "id": 1,
-      "name": "Coca Cola"
+      "name": "Coca Cola",
+      "precio": 12.5
     },
     {
       "id": 2,
-      "name": "Pepsi"
+      "name": "Pepsi",
+      "precio": 5.0
     },
     {
       "id": 3,
-      "name": "Fanta"
+      "name": "Fanta",
+      "precio": 2.0
     }
   ]
 }
