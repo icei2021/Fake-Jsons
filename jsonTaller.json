@@ -1,0 +1,285 @@
+{
+  "courses": [
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1619798723.jpg",
+      "title": "python",
+      "teacher": "Ing. Mario Mamani Mamani",
+      "description": "Desarrollar aplicaciones con el lenguaje de programacion python",
+      "nroModules": 3,
+      "modules": [
+        {
+          "title": "Python Basico",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Python Intermedio",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Python Avanzado",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1628527143.png",
+      "title": "ARCHITECT WEB FRONT END",
+      "teacher": "Ing. Arnaldo Muñoz",
+      "description": "",
+      "nroModules": 4,
+      "modules": [
+        {
+          "title": "Fundamentos Del Desarrollo Web",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Flexbox & Animacion",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Pre Procesador Css Y Desarrollo Responsivo",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        },
+        {
+          "title": "Javascript Moderno",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1628883399.png",
+      "title": "Android kotlin",
+      "teacher": "Adalid Limachi Lopez",
+      "description": "Desarrollo de aplicaciones android",
+      "nroModules": 3,
+      "modules": [
+        {
+          "title": "Diseño Android Con Kotlin",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Administración De Datos Android & Kotlin",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Servicios Avanzados Android & Kotlin",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1619819753.jpg",
+      "title": "Laravel",
+      "teacher": "Ing. Carlos Marca Choque",
+      "description": "Laravel es uno de los frameworks de código abierto más fáciles de asimilar para php. es simple, muy potente y tiene una interfaz elegante y divertida de usar. fue creado en 2011 y tiene una gran influencia de frameworks como ruby on rails, sinatra y asp.net mvc.",
+      "nroModules": 4,
+      "modules": [
+        {
+          "title": "Laravel Basico",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Laravel Base De Datos",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Laravel Eloquent",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        },
+        {
+          "title": "Api Restful Laravel-Angular",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1619820271.png",
+      "title": "Postgresql",
+      "teacher": "Ing. Einar Lopez Rivero",
+      "description": "postgresql, también llamado postgres, es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto, publicado bajo la licencia postgresql, similar a la bsd como muchos otros proyectos de código abierto, el desarrollo de postgresql no es manejado por una empresa o persona, sino que es dirigido por una comunidad de desarrolladores que trabajan de forma desinteresada, altruista, libre o apoyados por organizaciones comerciales. dicha comunidad es denominada el pgdg (postgresql global development group).",
+      "nroModules": 3,
+      "modules": [
+        {
+          "title": "Administracion De Base De Datos Postgre Inicial",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Administracion De Base De Datos Postgresql Avanzada",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Replicacion Streaming Y Monitoreo En Postgresql",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1619818786.png",
+      "title": "Programacion inicial",
+      "teacher": "Ing. Alex Aliaga Alacoma",
+      "description": "Carrera de introduccion a la programacion con la cual aprenderan los fundamentos neceserios para resolver problemas a traves de algoritmos, y luego convertilos en codigo funcional para programcion",
+      "nroModules": 3,
+      "modules": [
+        {
+          "title": "Metodologia De La Programacion Y Desarrollo De Software",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Estructura General De Programacion",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Lenguajes De Programacion",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1619820800.jpg",
+      "title": "Virtualizacion de servidores con vsphere 7/ esxi",
+      "teacher": "Ing. Jonathan Franz Torrez Soria",
+      "description": "Vmware vsphere es la solución por excelencia para virtualizar centros de datos (cpds). Mediante un servidor anfitrión al que desde ahora llamaremos hypervisor o host, ejecutando una serie de máquinas virtuales (vm o virtual machines) que son las que contienen los sistemas operativos instalados.",
+      "nroModules": 1,
+      "modules": [
+        {
+          "title": "Virtualizacion De Servidores Con Vsphere 7 /Esxi",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "https://sistema.icei.tech/storage/carreraPortadas/1620158407.jpg",
+      "title": "Electronica pic gama media",
+      "teacher": "Ing. Eber Candia Leon",
+      "description": "Un pic es un circuito integrado programable (programmable integrated circuited), el cual contiene todos los componentes para poder realizar y controlar una tarea, por lo que se denomina como un microcontrolador.",
+      "nroModules": 5,
+      "modules": [
+        {
+          "title": "Programación Inicial (Familia Pic Gama Media Mikro C)",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Programación Avanzada Y Aplicaciones (Familia Pic Gama Media Mikro C)",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3"
+          ]
+        },
+        {
+          "title": "Programación Aplicada E Interfaces (Familia Pic Dispositivos Avanzados Mikro C)",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        },
+        {
+          "title": "Matriz De Leds (Aplicaciones Mikro C )",
+          "topics": [
+            "Tema 1",
+            "Tema 2",
+            "Tema 3",
+            "Tema 4"
+          ]
+        },
+        {
+          "title": "Matriz De Leds (Aplicaciones Mikro C )",
+          "topics": [
+            "Tema 1",
+            "Tema 2"
+          ]
+        }
+      ]
+    }
+  ]
+}
