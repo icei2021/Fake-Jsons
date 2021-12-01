@@ -1,0 +1,29 @@
+{
+  "IsOnline": false,
+  "IsActionPermitted": false,
+  "IsExists": false,
+  "IsOk": true,
+  "Permiso": false,
+  "MensajeID": 0,
+  "Mensaje": "",
+  "TipoUsuario": null,
+  "UserName": "",
+  "Password": null,
+  "ID": "00000000-0000-0000-0000-000000000000",
+  "Fecha": "2021-12-01T05:16:19.5459022+00:00",
+  "URL": "",
+  "NoFilas": 250,
+  "dsRespuesta": {
+    "Paises": [
+      {
+        "idPais": "98cf60ae-d264-4a5c-a914-a3fd46514518",
+        "Pais": "AFGANISTAN"
+      },
+      {
+        "idPais": "b7efbc78-d4b9-40c0-b553-6b03fd5944b5",
+        "Pais": "ALBANIA"
+      }
+    ]
+  },
+  "Nota": ""
+}
