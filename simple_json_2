@@ -1,0 +1,27 @@
+{
+  "nombre": "Juan",
+  "ape_paterno": "Mendoza",
+  "edad": 3,
+  "sexo": true,
+  "altura": 1.66,
+  "direcciones": [
+    "Cota cota",
+    "Miraflores",
+    "Centro",
+    "Oruro"
+  ],
+  "amigos": [
+    {
+      "nombre": "Rosa Flores",
+      "nro_celular": "73223123"
+    },
+    {
+      "nombre": "Juan Flores",
+      "nro_celular": "110"
+    },
+    {
+      "nombre": "Armando Flores",
+      "nro_celular": "911"
+    }
+  ]
+}
